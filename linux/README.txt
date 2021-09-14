@@ -1,42 +1,40 @@
-.
+├── README.txt
 ├── applications
-│   ├── android
-│   ├── linux
-│   ├── win32
-│   └── win64
+│   └──  .gitkeep
 ├── archives
+│   ├── README.md
 │   ├── assets
+│   │   └──  .gitkeep
 │   ├── backups
-│   ├── datasets
-│   ├── news
-│   └── websites
+│   └── datasets
+│       └── README.md
 ├── audio
-│   ├── books
-│   ├── music
-│   ├── playlists
-│   ├── podcasts
-│   ├── recordings
-│   └── soundtracks
+│   └──  .gitkeep
 ├── documents
-├── download
-├── games
+│   └──  .gitkeep
+├── downloads
+│   └──  .gitkeep
 ├── images
 │   ├── animated
 │   ├── charts
 │   ├── photos
-│   └── wallpaper
+│   │   ├── other
+│   │   └── personal
+│   └── purpose-based
+│       ├── archives
+│       │   └──  .gitkeep
+│       └── wallpapers
+│           └──  .gitkeep
+├── projects
+│   └── github
 ├── repositories
+│   └── README.md
 ├── software
-│   ├── firmwaremby
+│   ├── firmware
 │   ├── scripts
-│   ├── systems
-│   └── typefaces
-├── sync
-│   └── drive/cloud
-└── video
-    ├── discs
-    ├── movies
-    ├── tv-show
-    └── web
-
-
+│   └── systems
+└── sync
+    ├── archives
+    ├── images
+    ├── notes
+    └── scripts
