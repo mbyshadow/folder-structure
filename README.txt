@@ -16,7 +16,6 @@ All by the same rules and structure.
 
 README.txt we need this in .txt 
 
-
 └── home
     ├── applications
     ├── archives
@@ -26,7 +25,9 @@ README.txt we need this in .txt
     │   └── datasets
     ├── audio
     ├── documents
-    │   └── privet
+    │   ├── hardware
+    │   ├── notebooks
+    │   └── personal
     │       └── finance
     ├── downloads
     ├── images
@@ -39,8 +40,8 @@ README.txt we need this in .txt
     │       ├── archives
     │       └── wallpapers
     ├── projects
-    │   ├── github
     │   ├── private
+    │   ├── public
     │   └── work
     ├── repositories
     ├── software
@@ -48,7 +49,7 @@ README.txt we need this in .txt
     │   ├── scripts
     │   └── systems
     │       ├── linux
-    │       │   └── arch
+    │       │   ├── arch
     │       └── windows
     └── sync
         ├── archives
