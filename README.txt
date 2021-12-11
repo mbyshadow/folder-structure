@@ -1,5 +1,3 @@
-This is MASTER
-
 Structure for private ish file servers,
 backed, syncet, cloud, cold, storage.
 
